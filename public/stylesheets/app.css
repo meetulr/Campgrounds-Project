@@ -7,3 +7,13 @@
     width: 100%;
     height: 300px;
 }
+
+.campground {
+    border: 0;
+    box-shadow: 10px 10px 10px #8f8f8f;
+}
+
+.campground:hover {
+    /* border: 1px solid rgb(163, 163, 163); */
+    box-shadow: 10px 10px 50px #8f8f8f;
+}
